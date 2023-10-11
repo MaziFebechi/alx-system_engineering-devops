@@ -14,6 +14,16 @@ How to run a command with root privileges
 
 How to change user ID or become superuser
 
+How to create a user
+
+How to create a group
+
+How to print real and effective user and group IDs
+
+How to print the groups a user is in
+
+How to print the effective userid
+
 
 Create a script that switches the current user to the user betty.
    You should use exactly 8 characters for your command (+1 character for the new line)
