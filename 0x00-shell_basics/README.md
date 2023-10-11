@@ -1,3 +1,10 @@
+Learning Objectives
+
+What does RTFM mean?
+
+What is a Shebang
+
+
 Write a script that prints the absolute path name of the current working directory.
 
 Display the contents list of your current directory.
